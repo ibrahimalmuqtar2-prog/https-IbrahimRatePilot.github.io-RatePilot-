@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/ratepilot-banner.png" alt="RatePilot Banner" width="100%">
+  <img src="images/ratepilot-banner.png" alt="RatePilot Banner" width/ratepilot-banner.png" alt="RatePilot Banner" width="100%">
 </p>
 
 # 🚀 RatePilot
