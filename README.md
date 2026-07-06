@@ -10,5 +10,9 @@ RatePilot/
 ├── rates.html
 ├── css/
 ├── js/
-├── images/
+├── images/RatePilot/
+├── index.html
+├── login.html
+├── register.html
+...
 └── README.md
