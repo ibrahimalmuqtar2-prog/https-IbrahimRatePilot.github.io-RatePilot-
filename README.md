@@ -1,4 +1,6 @@
-
+RatePilot/
+├── images/
+│   └── ratepilot-logo.png
 # https-IbrahimRatePilot.github.io-RatePilot-
 ratepilot.ng
 RatePilot/
