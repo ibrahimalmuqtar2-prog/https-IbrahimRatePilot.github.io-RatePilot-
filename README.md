@@ -9,7 +9,7 @@ A modern and responsive currency converter web application built with HTML, CSS,
 🌐 **Live Demo:** *(Add your website link after publishing)*
 
 📸 Screenshots
-
+ratepilot-banner.png
 ✨ Features
 
 🛠 Technologies
