@@ -1,3 +1,4 @@
+
 # https-IbrahimRatePilot.github.io-RatePilot-
 ratepilot.ng
 RatePilot/
@@ -12,7 +13,7 @@ RatePilot/
 ├── js/
 
 ├── images/RatePilot/
-├── index.html
+├── iimages/RatePilotndex.html
 ├── login.html
 ├── register.html
 ...
