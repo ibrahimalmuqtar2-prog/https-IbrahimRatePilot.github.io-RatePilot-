@@ -1,4 +1,4 @@
-images/
+images/ ├── ratepilot-banner.pngimages/ratepilot-banner.pngimages/
 ├── ratepilot-banner.png
 ├── home.png
 ├── dashboard.png
