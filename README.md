@@ -1,4 +1,8 @@
-<p align="center">
+images/
+├── ratepilot-banner.png
+├── home.png
+├── dashboard.png
+└── converter.png<p align="center">
   <img src="images/ratepilot-banner.png" alt="RatePilot Banner" width="100%">
 </p>
 
