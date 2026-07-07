@@ -1,4 +1,4 @@
-<p align="center">
+images/ratepilot-banner.png<p align="center">
   <img src="images/ratepilot-banner.png" alt="RatePilot Banner" width/ratepilot-banner.png" alt="RatePilot Banner" width="100%">
 </p>
 
