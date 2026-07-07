@@ -1,4 +1,10 @@
-images/ratepilot-banner.png<p align="center">
+<p align="center">
+  <img src="images/ratepilot-banner.png" alt="RatePilot Banner" width="100%">
+</p>
+
+# 🚀 RatePilot
+
+A modern and responsive currency converter web application built with HTML, CSS, and JavaScript.images/ratepilot-banner.png<p align="center">
   <img src="images/ratepilot-banner.png" alt="RatePilot Banner" width/ratepilot-banner.png" alt="RatePilot Banner" width="100%">
 </p>
 
