@@ -71,4 +71,8 @@ RatePilot/
 ├── login.html
 ├── register.html
 ...
-└── README.md
+└──images/
+├── ratepilot-banner.png
+├── home.png
+├── dashboard.png
+└── converter.png README.md
