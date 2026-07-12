@@ -1,4 +1,8 @@
-<p align="center">
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home<p align="center">
   <img src="images/ratepilot-banner.png" alt="RatePilot Banner" width="100%">
 </p>
 
