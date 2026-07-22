@@ -6,11 +6,7 @@ converter.png
 
 ### 🏠 Home Page
 ![Home<p align="center">
-  <img src="images/ratepilot-banner.png" alt="RatePilot Banner" width="100%">
-</p>
-
-# 🚀 RatePilot
-
+  <img src="images/ratepilot-banner.png" alt="RatePilot Banner" widt
 A modern and responsive currency converter web application built with **HTML**, **CSS**, and **JavaScript**.
 
 ## 📸 Screenshots
@@ -33,7 +29,7 @@ A modern and responsive currency converter web application built with **HTML**, 
 - Favorite Currencies
 - Dark Mode
 
-## 🛠 Technologies
+## 🛠 technologies ibrahimalmuqtar2@gmail.com 
 
 - HTML5
 - CSS3
@@ -43,4 +39,4 @@ A modern and responsive currency converter web application built with **HTML**, 
 
 ## 👨‍💻 Author
 
-**Ibrahim**
+**Ibrahim*
