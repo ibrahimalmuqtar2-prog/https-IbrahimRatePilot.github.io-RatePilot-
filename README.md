@@ -1,4 +1,8 @@
-https-IbrahimRatePilot.github.io-RatePilot-# 🚀 RatePilot
+images/
+├── home.png
+├── dashboard.png
+├── converter.png
+└── ratepilot-banner.pnghttps-IbrahimRatePilot.github.io-RatePilot-# 🚀 RatePilot
 
 A modern and responsive currency converter web application built with **HTML**, **CSS**, and **JavaScript**.
 
