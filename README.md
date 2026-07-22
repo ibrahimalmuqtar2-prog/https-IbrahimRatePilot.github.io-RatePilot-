@@ -1,4 +1,7 @@
-![RatePilot Banner](https://raw.githubusercontent.com/ibrahimalmuqtar2-prog/https-IbrahimRatePilot.github.io-RatePilot-/main/images/ratepilot-banner.png)
+RatePilot-/main/images/dashboard.png)
+
+### 💱 Currency Converter
+![Converter](https://raw.githubusercontent.com/ibrahimalmuqtar2-![RatePilot Banner](https://raw.githubusercontent.com/ibrahimalmuqtar2-prog/https-IbrahimRatePilot.github.io-RatePilot-/main/images/ratepilot-banner.png)
 
 ## 📸 Screenshots
 
