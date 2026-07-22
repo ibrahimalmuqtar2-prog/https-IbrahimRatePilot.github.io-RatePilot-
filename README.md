@@ -1,4 +1,8 @@
-# 🚀 RatePilot
+README.md
+images/
+index.html
+style.css
+script.js# 🚀 RatePilot
 
 A modern and responsive currency converter web application built with **HTML**, **CSS**, and **JavaScript**.
 
