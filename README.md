@@ -1,4 +1,15 @@
-ratepilot-banner.png
+![RatePilot Banner](https://raw.githubusercontent.com/ibrahimalmuqtar2-prog/https-IbrahimRatePilot.github.io-RatePilot-/main/images/ratepilot-banner.png)
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](https://raw.githubusercontent.com/ibrahimalmuqtar2-prog/https-IbrahimRatePilot.github.io-RatePilot-/main/images/home.png)
+
+### 📊 Dashboard
+![Dashboard](https://raw.githubusercontent.com/ibrahimalmuqtar2-prog/https-IbrahimRatePilot.github.io-RatePilot-/main/images/dashboard.png)
+
+### 💱 Currency Converter
+![Converter](https://raw.githubusercontent.com/ibrahimalmuqtar2-prog/https-IbrahimRatePilot.github.io-RatePilot-/main/images/converter.png)ratepilot-banner.png
 home.png
 dashboard.png
 converter.png
